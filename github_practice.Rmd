@@ -1,0 +1,14 @@
+---
+title: "GitHub_Test"
+author: "Lindsey Norberg"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print("I'm learning to use GitHub...Boom.")
+```
+
